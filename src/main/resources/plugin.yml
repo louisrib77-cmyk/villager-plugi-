@@ -1,0 +1,6 @@
+name: LouisVillagers
+version: 1.0.0
+main: de.louis.villagers.LouisVillagers
+api-version: '26.2'
+author: Louis
+description: Feste, unbegrenzte Villager-Trades. Angebot ändert sich nur durch Abbauen und Neu-Platzieren des Arbeitsblocks.
